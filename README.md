@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/5dd70ab7-53a0-4722-a5f5-38a635ebc727.svg)](https://wakatime.com/@5dd70ab7-53a0-4722-a5f5-38a635ebc727)
+
 <!--
 **kaf-lamed-beyt/kaf-lamed-beyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
