@@ -2,7 +2,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/5dd70ab7-53a0-4722-a5f5-38a635ebc727.svg)](https://wakatime.com/@5dd70ab7-53a0-4722-a5f5-38a635ebc727)
 
-I'm excited about all things on the web — and developer tools. But, I'm particular about the frontend ecosystem. I strive to share whatever I'm learning — through my [blog](https://meje.dev) — with developers at any opportunity I get, so they do not have to experience the difficulties I faced.
+I'm excited about all things on the web — and developer tooling. 🫐🍓
+
+But, I'm particular about the frontend ecosystem. I strive to share whatever I'm learning — through my [blog](https://meje.dev) — with developers at any opportunity I get, so they do not have to experience the difficulties I faced.
 
 [LinkedIn](https://linkedin.com/in/calebolojo) | [Twitter](https://twitter.com/calebolojo) | [email](mailto:belac335@gmail.com)
 <!--
