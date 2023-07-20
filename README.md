@@ -2,11 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/5dd70ab7-53a0-4722-a5f5-38a635ebc727.svg)](https://wakatime.com/@5dd70ab7-53a0-4722-a5f5-38a635ebc727)
 
-I'm excited about all things on the web. But, I'm particular about the frontend ecosystem. I strive to share whatever I'm learning — through my [blog](https://meje.dev) — with developers at any opportunity I get, so they do not have to experience the difficulties I faced.
-
-I am currently on the lookout for an entry-level or intern Frontend role, and I am particularly interested in creating opensource tools for developers.
-
-I have contributed to, and built a small amount of OSS projects on GitHub so if you know any company that does stuff related to this, please let me know by reaching out.
+I'm excited about all things on the web — and developer tools. But, I'm particular about the frontend ecosystem. I strive to share whatever I'm learning — through my [blog](https://meje.dev) — with developers at any opportunity I get, so they do not have to experience the difficulties I faced.
 
 [LinkedIn](https://linkedin.com/in/calebolojo) | [Twitter](https://twitter.com/calebolojo) | [email](mailto:belac335@gmail.com)
 <!--
