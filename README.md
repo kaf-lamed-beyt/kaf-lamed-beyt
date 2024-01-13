@@ -1,5 +1,5 @@
 
-### Hey
+# Hey
 
 [![wakatime](https://wakatime.com/badge/user/5dd70ab7-53a0-4722-a5f5-38a635ebc727.svg)](https://wakatime.com/@5dd70ab7-53a0-4722-a5f5-38a635ebc727)
 
@@ -7,7 +7,7 @@ I'm excited about all things on the web — and developer tooling. I write occas
 
 I find myself drifting towards the automation side of things, lately, and it's been intriguing! 🤖
 
-[LinkedIn](https://linkedin.com/in/calebolojo) | [Twitter](https://twitter.com/kafLamed) | [email](mailto:belac335@gmail.com)
+[email](mailto:belac335@gmail.com)
 <!--
 **kaf-lamed-beyt/kaf-lamed-beyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
