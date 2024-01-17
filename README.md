@@ -7,7 +7,6 @@ I'm excited about all things on the web — and developer tooling. I write occas
 
 I find myself drifting towards the automation side of things, lately, and it's been intriguing! 🤖
 
-[email](mailto:belac335@gmail.com)
 <!--
 **kaf-lamed-beyt/kaf-lamed-beyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
