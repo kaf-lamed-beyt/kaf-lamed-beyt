@@ -11,3 +11,5 @@ Here are some of the best products I've worked on;
 
 Let’s connect &mdash; always happy to explore new ideas or opportunities!  
 
+[email](mailto:belac335@gmail.com), [website](https://meje.dev)
+
