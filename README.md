@@ -1,7 +1,7 @@
 
 # Hey
 
-I’m a **UI Engineer** with a knack for ensuring that the products I build provide a good user experience for people who eventually use them. When I'm not refactoring UIs, I'm improving my problem-solving skills by attempting algorithmic and data structure problems.
+I'm learning how to create good experiences for people with software. When I'm not refactoring UIs, I improve my problem-solving skills by attempting algorithmic and data structure problems.
 
 Here are some of the best products I've worked on;
 
