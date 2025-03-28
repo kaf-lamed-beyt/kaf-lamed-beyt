@@ -5,7 +5,7 @@ I'm learning how to create good experiences for people with software. When I'm n
 
 Here are some standout products I've developed, some of which I continue to work on and evolve:
 
-- **[bb](https://github.com/storacha/bluesky-backup-cli)**: A CLI tool I created to backup data from Bluesky PDS, which I'm actively improving
+- **[bb](https://github.com/storacha/bluesky-backup-cli)**: A CLI tool that helps you backup data from your Bluesky PDS, which I'm actively improving.
 - **[Wasps](https://marketplace.visualstudio.com/items?itemName=Gitsecure.wasps)**: My AI-powered VSCode extension for intelligent code reviews
 - **[Livenormad](https://www.livenormad.com/)**: Connecting Canadian homeowners to manufacturers for affordable home decor.    
 - **[twiBook](https://twibook.app/)**: A bookmarking tool and web extension for Twitter.
