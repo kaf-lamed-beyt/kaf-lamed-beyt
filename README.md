@@ -1,7 +1,7 @@
 
 # Hey
 
-I'm learning how to make stuff for people with software. When I'm not refactoring UIs, I improve my problem-solving skills by attempting algorithmic | data structure problems, and exploring &mdash; at the surface-level &mdash; a couple of FP languages
+I'm learning how to make stuff with code for people. When I'm not refactoring UIs, I improve my problem-solving skills by attempting algorithmic | data structure problems, and exploring &mdash; at the surface-level &mdash; a couple of FP languages
 
 <!---
 Here are some stuff I've developed, some of which I continue to work on and evolve:
