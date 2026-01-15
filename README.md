@@ -14,5 +14,5 @@ Here are some stuff I've developed, some of which I continue to work on and evol
 Let’s connect &mdash; always happy to explore new ideas or opportunities!  
 --->
 
-[email](mailto:belac335@gmail.com), [website](https://meje.dev)
+[email](mailto:belac335@gmail.com)
 
