@@ -16,5 +16,5 @@ Here are some stuff I've developed, some of which I continue to work on and evol
 Let’s connect &mdash; always happy to explore new ideas or opportunities!  
 --->
 
-[email](mailto:belac335@gmail.com). [zapr](https://getzapr.com). _gunugun kii ku lewe_
+[email](mailto:belac335@gmail.com). [zapr](https://getzapr.com). _gunugun kii ku lewe._ _epo orogbo l'nbo asiri orogbo!_
 
